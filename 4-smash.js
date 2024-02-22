@@ -20,6 +20,7 @@ function smash(words) {
     }
 
     return result;
+
 }
 
  console.log(smash(["this", "is", "a", "really", "long", "sentence"]));
